@@ -1,0 +1,8 @@
+.contain h3{
+background-color: rgb(186, 186, 204);
+padding: 5px; 
+margin:10px;
+display: inline-block;  
+width: 95px;
+border-radius: 10px; 
+}
